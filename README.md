@@ -1,4 +1,4 @@
-# Crawling-Football-Data-Results
+# Crawling-Football-Results
 
 In get_bet_res.py I implement a simple web crawler using **Selenium** which navigates a betting website in order to download football matches result history. When each web page is downloaded, **BeautifulSoup** is used to extract the desired data.
 
