@@ -6,7 +6,7 @@ The excel files are named after each country and it's championship and the resul
 
 ## Programme structure
 
-You can choose to test a url, each means that you can either provide a new url to download a new page of football results and test beautifulsoup parameters there or to work with the latest downloaded page and don't downloaded anything new. This was done because many countries have different championship systems, eg. in greek championship every team plays two games with the rest, which means that if there are 18 teams, every team will play 17x2 = 34 games in total. But in albanian championship a team can have more games with the rest so had to take that into consideration. 
+You can choose to test a url, each means that you can either provide a new url to download a new page of football results and test beautifulsoup parameters there or to work with the latest downloaded page and don't downloaded anything new. This was done because many countries have different championship systems, eg. in greek championship every team plays two games with the rest, which means that if there are 18 teams, every team will play 17x2 = 34 games in total. But in, for example, albanian championship a team can have more games with the rest so I had to take this difference into consideration. 
 
 On the other hand if you press **m**, the programme will start navigating and downloading results of every country in alphabetic order. The data downloaded will then be saved in excel files.
 
