@@ -117,6 +117,6 @@ def runMain(driver):
 
 '''
 
-#Data analysis </br>
+## Data analysis </br>
 In data_analysis.py a simple strategy is implemented for betting on football matches. Basically, the strategy bets on the draw and if it loses, it bets again on the same team and the same result. Having collected data from multiple championships and having a program that watches every week, every team we can easily test if our initial hypothesis would work if we were to bet those years. 
 
